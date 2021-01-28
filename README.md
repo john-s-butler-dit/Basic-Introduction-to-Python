@@ -1,4 +1,4 @@
-# Basic-Introduction-to-Python
+# Basic Introduction to Python
 Introduction to Python using Neuroscience Examples
 
 ## Week 1 
