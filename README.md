@@ -20,7 +20,7 @@ Using python to implement simple examples of Spike train analysis, tuning functi
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T2%20Simulate%20Spiking%20Trials.ipynb)
  * Tutorial 3 The Tuning Function.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T3%20Tuning%20Curve.ipynb)
- * Tutorial 4 Frequnecies.
+ * Tutorial 4 Frequencies.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T4%20Frequencies%20.ipynb)
  * Tutorial 5 Fourier Transform.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T5%20Fast%20Fourier%20Transform.ipynb)
