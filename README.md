@@ -1,7 +1,7 @@
 # Basic Introduction to Python
-Introduction to Python using Neuroscience Examples
+Introduction to Python using examples from Neuroscience
 
-## Week 1 
+## Behavioural Examples
 Applying simple examples of the line and a psychometric function used Behavioural and Clinical Neuroscience to illustrate python functions.
  * Tutorial 1 Plotting the line.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)
@@ -12,7 +12,7 @@ Applying simple examples of the line and a psychometric function used Behavioura
  * Tutorial 4 The Psychometric function for multisensory integration.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T4%20The%20Psychometric%20for%20Multisensory%20Integration.ipynb)
  
- ## Week 2
+ ## Neurophysiolgical Examples
 Using python to implement simple examples of Spike train analysis, tuning functions, frequencies and fast fourier transform.
  * Tutorial 1 Single Spike Train.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T1%20Simulate%20a%20Spiking%20Neuron.ipynb)
