@@ -25,4 +25,12 @@ Using python to implement simple examples of Spike train analysis, tuning functi
  * Tutorial 5 Fourier Transform.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T5%20Fast%20Fourier%20Transform.ipynb)
 
+## References
+
+Butler, John S., et al. "Non-parametric bootstrapping method for measuring the temporal discrimination threshold for movement disorders." Journal of neural engineering 12.4 (2015): 046026.
+Britten, Kenneth H., et al. "The analysis of visual motion: a comparison of neuronal and psychophysical performance." Journal of Neuroscience 12.12 (1992): 4745-4765.
+Ernst, Marc O., and Martin S. Banks. "Humans integrate visual and haptic information in a statistically optimal fashion." Nature 415.6870 (2002): 429-433.
+Meredith, M. A., & Stein, B. E. (1986). Visual, auditory, and somatosensory convergence on cells in superior colliculus results in multisensory integration. Journal of neurophysiology, 56(3), 640-662.
+
+
 
