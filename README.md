@@ -1,7 +1,12 @@
 # Basic Introduction to Python
-Introduction to Python using examples from Neuroscience
+Developed and taught by John S Butler
 
-## Behavioural Examples
+## Description of Module
+This is a very short introduction into simple mathematical functions that are used in behavourial and neurophysiolgical papers. 
+The python code below is motivated by data and plots from papers to illusrate the use and power of the line, sigmoid function, and sinewaves to analyse and interpret data.
+
+## Module Content
+### Behavioural Examples
 Applying simple examples of the line and a psychometric function used Behavioural and Clinical Neuroscience to illustrate python functions.
  * Tutorial 1 Plotting the line.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)
@@ -12,7 +17,7 @@ Applying simple examples of the line and a psychometric function used Behavioura
  * Tutorial 4 The Psychometric function for multisensory integration.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T4%20The%20Psychometric%20for%20Multisensory%20Integration.ipynb)
  
- ## Neurophysiolgical Examples
+ ### Neurophysiolgical Examples
 Using python to implement simple examples of Spike train analysis, tuning functions, frequencies and fast fourier transform.
 [The sound of different spike patterns](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2%20Spiking%20Model%20-%20Izhikevch%20Model.ipynb)
 
@@ -39,5 +44,7 @@ Fiebelkorn, I. C., Foxe, J. J., Butler, J. S., Mercier, M. R., Snyder, A. C., & 
 
 Meredith, M. A., & Stein, B. E. (1986). Visual, auditory, and somatosensory convergence on cells in superior colliculus results in multisensory integration. Journal of neurophysiology, 56(3), 640-662.
 
+## More Advanced Modules
+(Mathematical Tools for Neuroscience by Ella Batty )[https://github.com/ebatty/MathToolsforNeuroscience]
 
-
+(Neuromatch Academy)[https://github.com/NeuromatchAcademy/course-content]
