@@ -45,7 +45,9 @@ Fiebelkorn, I. C., Foxe, J. J., Butler, J. S., Mercier, M. R., Snyder, A. C., & 
 Meredith, M. A., & Stein, B. E. (1986). Visual, auditory, and somatosensory convergence on cells in superior colliculus results in multisensory integration. Journal of neurophysiology, 56(3), 640-662.
 
 ## More Advanced Modules
-(Mathematical Tools for Neuroscience by Ella Batty )[https://github.com/ebatty/MathToolsforNeuroscience]
+Mathematical Tools for Neuroscience by Ella Batty
+[https://github.com/ebatty/MathToolsforNeuroscience]
 
+Neuromatch Academy
 't Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., Alicea, B., et al. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. OSF Preprints. Retrieved from osf.io/9fp4v
-(Neuromatch Academy)[https://github.com/NeuromatchAcademy/course-content]
+[https://github.com/NeuromatchAcademy/course-content]
