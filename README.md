@@ -14,6 +14,8 @@ Applying simple examples of the line and a psychometric function used Behavioura
  
  ## Neurophysiolgical Examples
 Using python to implement simple examples of Spike train analysis, tuning functions, frequencies and fast fourier transform.
+[The sound of different spike patterns](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2%20Spiking%20Model%20-%20Izhikevch%20Model.ipynb)
+
  * Tutorial 1 Single Spike Train.
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T1%20Simulate%20a%20Spiking%20Neuron.ipynb)
  * Tutorial 2 Multiple Spike Trains.
