@@ -1,4 +1,4 @@
-# Basic Introduction to Python
+# Basic Introduction to Maths and Python for Neuroscience
 Developed and taught by John S Butler
 
 ## Description of Module
