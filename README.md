@@ -47,4 +47,5 @@ Meredith, M. A., & Stein, B. E. (1986). Visual, auditory, and somatosensory conv
 ## More Advanced Modules
 (Mathematical Tools for Neuroscience by Ella Batty )[https://github.com/ebatty/MathToolsforNeuroscience]
 
+'t Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., Alicea, B., et al. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. OSF Preprints. Retrieved from osf.io/9fp4v
 (Neuromatch Academy)[https://github.com/NeuromatchAcademy/course-content]
