@@ -56,3 +56,7 @@ Mathematical Tools for Neuroscience by Ella Batty
 Neuromatch Academy
 't Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., Alicea, B., et al. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. OSF Preprints. Retrieved from osf.io/9fp4v
 [https://github.com/NeuromatchAcademy/course-content]
+
+## Supplemental Popular Reading List
+Lindsay, G. (2021). Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain. Bloomsbury Publishing.
+
