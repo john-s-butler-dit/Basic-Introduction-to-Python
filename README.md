@@ -60,3 +60,5 @@ Neuromatch Academy
 ## Supplemental Popular Reading List
 Lindsay, G. (2021). Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain. Bloomsbury Publishing.
 
+Strogatz, S. (2004). Sync: The emerging science of spontaneous order. Penguin UK.
+
