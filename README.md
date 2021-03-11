@@ -54,7 +54,8 @@ Mathematical Tools for Neuroscience by Ella Batty
 [https://github.com/ebatty/MathToolsforNeuroscience]
 
 Neuromatch Academy
-'t Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., Alicea, B., et al. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. OSF Preprints. Retrieved from osf.io/9fp4v
+'t Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., Alicea, B., et al. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. OSF Preprints. Retrieved from [osf.io/9fp4v]
+
 [https://github.com/NeuromatchAcademy/course-content]
 
 ## Supplemental Popular Reading List
