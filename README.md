@@ -49,6 +49,10 @@ Using python to implement simple examples of Spike train analysis, tuning functi
 
 [6] Izhikevich, E. M. (2003). Simple model of spiking neurons. IEEE Transactions on neural networks, 14(6), 1569-1572.
 
+## Supplemental References
+Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and mathematical modeling of neural systems. Computational Neuroscience Series.
+
+
 ## More Advanced Modules
 Mathematical Tools for Neuroscience by Ella Batty
 [https://github.com/ebatty/MathToolsforNeuroscience]
@@ -56,7 +60,7 @@ Mathematical Tools for Neuroscience by Ella Batty
 Neuromatch Academy
 't Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., Alicea, B., et al. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. OSF Preprints. Retrieved from [https://osf.io/9fp4v/]
 
-[https://github.com/NeuromatchAcademy/course-content]
+Neuromatch GitHub Repositry [https://github.com/NeuromatchAcademy/course-content]
 
 ## Supplemental Popular Reading List
 Lindsay, G. (2021). Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain. Bloomsbury Publishing.
