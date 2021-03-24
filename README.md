@@ -67,3 +67,5 @@ Lindsay, G. (2021). Models of the Mind: How Physics, Engineering and Mathematics
 
 Strogatz, S. (2004). Sync: The emerging science of spontaneous order. Penguin UK.
 
+Humphries, M. (2021). The Spike. In The Spike. Princeton University Press.
+
