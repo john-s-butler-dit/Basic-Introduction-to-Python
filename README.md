@@ -1,5 +1,5 @@
 # Basic Introduction to Maths and Python for Neuroscience
-Developed and taught by John S Butler
+Developed and taught by [John S Butler](https://johnsbutler.netlify.app)
 
 ## Description of Module
 This is a very short introduction into simple mathematical functions that are used in behavourial and neurophysiolgical papers. 
@@ -54,13 +54,13 @@ Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and m
 
 
 ## More Advanced Modules
-Mathematical Tools for Neuroscience by Ella Batty
-[https://github.com/ebatty/MathToolsforNeuroscience]
+[Mathematical Tools for Neuroscience by Ella Batty](
+https://github.com/ebatty/MathToolsforNeuroscience)
 
 Neuromatch Academy
 't Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., Alicea, B., et al. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. OSF Preprints. Retrieved from [https://osf.io/9fp4v/]
 
-Neuromatch GitHub Repositry [https://github.com/NeuromatchAcademy/course-content]
+[Neuromatch Academy GitHub Repository](https://github.com/NeuromatchAcademy/course-content)
 
 ## Supplemental Popular Reading List
 Lindsay, G. (2021). Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain. Bloomsbury Publishing.
