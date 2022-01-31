@@ -24,15 +24,15 @@ Applying simple examples of the line and a psychometric function used Behavioura
 Using python to implement simple examples of Spike train analysis, tuning functions, frequencies and fast fourier transform.
 
  * Tutorial 1 Single Spike Train [3].
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T1%20Simulate%20a%20Spiking%20Neuron.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T1%20Simulate%20a%20Spiking%20Neuron.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T1%20Simulate%20a%20Spiking%20Neuron_Solution.ipynb)
  * Tutorial 2 Multiple Spike Trains [3].
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T2%20Simulate%20Spiking%20Trials.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T2%20Simulate%20Spiking%20Trials.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T2%20Simulate%20Spiking%20TrialsSolution.ipynb)
  * Tutorial 3 The Tuning Function [4].
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T3%20Tuning%20Curve.ipynb)
- * Tutorial 4 Frequencies [5].
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T4%20Frequencies%20.ipynb)
- * Tutorial 5 Fourier Transform [5].
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T5%20Fast%20Fourier%20Transform.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T3%20Tuning%20Curve.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T3%20Tuning%20CurveSolution.ipynb)
+ * Tutorial 4 Frequencies [5]. 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T4%20Frequencies%20.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T4%20FrequenciesSolution.ipynb)
+ * Tutorial 5 Fourier Transform [5]. 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T5%20Fast%20Fourier%20Transform.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T5%20Fast%20Fourier%20Transform%20Solution.ipynb)
 
 
 [The sound of different spike patterns [6]](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2%20Spiking%20Model%20-%20Izhikevch%20Model.ipynb)
