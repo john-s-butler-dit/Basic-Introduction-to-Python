@@ -5,17 +5,13 @@ Developed and taught by [John S Butler](https://johnsbutler.netlify.app)
 This is a very short introduction into simple mathematical functions that are used in behavourial and neurophysiolgical papers. 
 The python code below is motivated by data and plots from papers to illusrate the use and power of the line, sigmoid function, and sinewaves to analyse and interpret data.
 
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
 
 ## Module Content
 ### Behavioural Examples
 Applying simple examples of the line and a psychometric function used Behavioural and Clinical Neuroscience to illustrate python functions.
  * Tutorial 1 Plotting the line [1].
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+ 
 | Tutorial   |      Solution      | 
 |----------|:-------------:|
 | [Tutorial](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)  |  [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line_solutions.ipynb) |
