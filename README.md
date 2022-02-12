@@ -18,26 +18,63 @@ Applying simple examples of the line and a psychometric function used Behavioura
  * Tutorial 2 Two lines [1].
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T2%20Two%20Lines.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T2%20Two%20Lines_solutions.ipynb)
  
+ | Tutorial   |      Solution      | 
+|----------|:-------------:|
+| [Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)  |  [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line_solutions.ipynb) |
+ 
  * [Tutorial 3 The Psychometric Function [2].
  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T3%20The%20Psychometric%20Function.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T3%20The%20Psychometric%20Function_solution.ipynb) 
  
+ | Tutorial   |      Solution      | 
+|----------|:-------------:|
+| [Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)  |  [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line_solutions.ipynb) |
+ 
  * [Tutorial 4 The Psychometric function for multisensory integration [2].
  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T4%20The%20Psychometric%20for%20Multisensory%20Integration.ipynb)  [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T4%20The%20Psychometric%20for%20Multisensory%20Integration_Solution.ipynb)
+ 
+ | Tutorial   |      Solution      | 
+|----------|:-------------:|
+| [Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)  |  [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line_solutions.ipynb) |
  
  ### Neurophysiolgical Examples
 Using python to implement simple examples of Spike train analysis, tuning functions, frequencies and fast fourier transform.
 
  * Tutorial 1 Single Spike Train [3].
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T1%20Simulate%20a%20Spiking%20Neuron.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T1%20Simulate%20a%20Spiking%20Neuron_Solution.ipynb)
+ 
+ | Tutorial   |      Solution      | 
+|----------|:-------------:|
+| [Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)  |  [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line_solutions.ipynb) |
+
+
  * Tutorial 2 Multiple Spike Trains [3].
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T2%20Simulate%20Spiking%20Trials.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T2%20Simulate%20Spiking%20TrialsSolution.ipynb)
+ 
+ | Tutorial   |      Solution      | 
+|----------|:-------------:|
+| [Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)  |  [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line_solutions.ipynb) |
+
+
  * Tutorial 3 The Tuning Function [4].
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T3%20Tuning%20Curve.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T3%20Tuning%20CurveSolution.ipynb)
+ 
+ | Tutorial   |      Solution      | 
+|----------|:-------------:|
+| [Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)  |  [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line_solutions.ipynb) |
+ 
  * Tutorial 4 Frequencies [5]. 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T4%20Frequencies%20.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T4%20FrequenciesSolution.ipynb)
+ 
+ | Tutorial   |      Solution      | 
+|----------|:-------------:|
+| [Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)  |  [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line_solutions.ipynb) |
+ 
  * Tutorial 5 Fourier Transform [5]. 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T5%20Fast%20Fourier%20Transform.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2T5%20Fast%20Fourier%20Transform%20Solution.ipynb)
 
+| Tutorial   |      Solution      | 
+|----------|:-------------:|
+| [Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)  |  [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line_solutions.ipynb) |
 
 [The sound of different spike patterns [6]](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W2%20Spiking%20Model%20-%20Izhikevch%20Model.ipynb)
 
