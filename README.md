@@ -31,7 +31,7 @@ Applying simple examples of the line and a psychometric function used Behavioura
  
  | Tutorial   |      Solution      | 
 |----------|:-------------:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T4%20The%20Psychometric%20for%20Multisensory%20Integration.ipynb)  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T4%20The%20Psychometric%20for%20Multisensory%20Integration_Solution.ipynb) |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T4%20The%20Psychometric%20for%20Multisensory%20Integration.ipynb)  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T4%20The%20Psychometric%20for%20Multisensory%20Integration_Solution.ipynb) |
  
  ### Neurophysiolgical Examples
 Using python to implement simple examples of Spike train analysis, tuning functions, frequencies and fast fourier transform.
