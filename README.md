@@ -9,9 +9,8 @@ The python code below is motivated by data and plots from papers to illusrate th
 ### Behavioural Examples
 Applying simple examples of the line and a psychometric function used Behavioural and Clinical Neuroscience to illustrate python functions.
  * Tutorial 1 Plotting the line [1].
- [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
-| Tutorial   |      Solution      | 
 |----------|:-------------:|
 | [Tutorial](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)  |  [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line_solutions.ipynb) |
 
