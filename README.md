@@ -15,9 +15,8 @@ Applying simple examples of the line and a psychometric function used Behavioura
 
 | Tutorial   |      Solution      | 
 |----------|:-------------:|
-| col 1 is |  left-aligned |
-| col 2 is |    centered   |
-| col 3 is | right-aligned |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T1%20The%20Line%20.ipynb)  |  left-aligned |
+
  
  * Tutorial 2 Two lines [1].
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T2%20Two%20Lines.ipynb) [Solution](https://colab.research.google.com/github/john-s-butler-dit/Basic-Introduction-to-Python/blob/master/W1T2%20Two%20Lines_solutions.ipynb)
