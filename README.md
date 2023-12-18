@@ -93,6 +93,8 @@ Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience: computational and m
 [Mathematical Tools for Neuroscience by Ella Batty](
 https://github.com/ebatty/MathToolsforNeuroscience)
 
+Butler, J. (2023, December 14). Numerical Methods and Machine Learning for Differential Equations with Applications in Python. Zenodo. https://doi.org/10.5281/zenodo.10376815
+
 ## Neuromatch Academy Materials
 't Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., Alicea, B., et al. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. OSF Preprints. Retrieved from [https://osf.io/9fp4v/]
 
